@@ -1,0 +1,32 @@
+body {
+    background-color: #000000;
+    background-image: url('../assets/images/stars-bg.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+header, footer {
+    background-color: #111111;
+}
+
+.hero .cta {
+    background-color: #00aaff;
+    box-shadow: 0px 0px 20px #00aaff;
+}
+
+.product-card {
+    background-color: rgba(17, 17, 17, 0.8);
+    box-shadow: 0px 0px 15px #00aaff;
+}
+
+.product-card h3, .product-card p {
+    color: #00aaff;
+}
+
+footer {
+    border-top: 1px solid #00aaff;
+}
+
+footer ul li a:hover {
+    color: #00aaff;
+}
